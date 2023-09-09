@@ -15,6 +15,7 @@ console.log(store.value)
 
 <template>
   <h3>Mouse: {{ x }} x {{ y }}</h3>
+  <hr />
 </template>
 
 <style scoped></style>
